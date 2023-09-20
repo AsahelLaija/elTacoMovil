@@ -3,22 +3,22 @@ import images from './images';
 const wines = [
   {
     title: 'Al Pastor',
-    price: '$2',
+    price: '$2.50',
     tags: 'pork',
   },
   {
     title: 'Carnitas',
-    price: '$2',
+    price: '$2.50',
     tags: 'pork',
   },
   {
     title: 'Barbacoa',
-    price: '$2',
+    price: '$2.50',
     tags: 'beef',
   },
   {
     title: 'Asada',
-    price: '$2',
+    price: '$2.50',
     tags: 'beef',
   },
 ];
@@ -74,4 +74,6 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+let dataExport = { wines, cocktails, awards };
+
+export default dataExport;
