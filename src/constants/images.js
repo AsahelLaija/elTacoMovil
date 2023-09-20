@@ -34,7 +34,7 @@ import tacosInsta2  from '../assets/tacosInsta2.jpg'
 import tacosInsta3  from '../assets/tacosInsta3.jpg'
 import tacosInsta4  from '../assets/tacosInsta4.jpg'
 
-export default {
+let varExport = {
   bg,
   chef,
   G,
@@ -70,3 +70,5 @@ export default {
   tacosInsta3,
   tacosInsta4
 };
+
+export default varExport;
