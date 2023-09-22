@@ -11,10 +11,13 @@ const FindUs = () => (
       <div className="app__wrapper-content">
         <p className="p__opensans"></p>
         <p className="p__cormorant" style={{ color: '#DCCA87', margin: '2rem 0' }}>Opening Hours</p>
-        <p className="p__opensans">Mon - Fri: 10:00 am - 02:00 am</p>
-        <p className="p__opensans">Sat - Sun: 10:00 am - 03:00 am</p>
+        <p className="p__opensans">Saturday - Sunday 04:00 PM - 10:00 PM</p>
       </div>
+    {/*
       <button type="button" className="custom__button" style={{ marginTop: '2rem' }}>Visit Us</button>
+    */}
+
+      <a href="https://maps.app.goo.gl/sLGf98poJ8WVs2PSA" className="custom__button" style={{ marginTop: '2rem' }}>Visit Us</a>
     </div>
 
     <div className="app__wrapper_img">

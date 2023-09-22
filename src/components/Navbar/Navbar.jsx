@@ -23,9 +23,10 @@ const Navbar = () => {
         <li className="p__opensans"><a href="#contact">Contact</a></li>
       </ul>
       <div className="app__navbar-login">
-        <a href="#login" className="p__opensans">Log In / Registration</a>
-        <div />
+        <a href="#login" className="p__opensans">call for events</a>
+            {/*
         <a href="/" className="p__opensans">Book Table</a>
+            */}
       </div>
       <div className="app__navbar-smallscreen">
         <svg 

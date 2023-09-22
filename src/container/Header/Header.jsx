@@ -9,7 +9,8 @@ const Header = () => (
     <div className="app__wrapper_info">
       <SubHeading title="Chase the best flavour" />
       <h1 className="app__header-h1">The Authentic Mexican Cuisine</h1>
-      <p className="p__opensans" style={{ margin: '2rem 0' }}>Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus </p>
+      <p className="p__opensans" style={{ margin: '2rem 0' }}>Bringing our home cooking to the streets, come have a taste and tell us what you think!</p>
+      <p className="p__opensans" style={{ margin: '2rem 0' }}>BIG OPENING THIS SEPTEMBER 23-24 4-10PM AT PURPLE WAVE PARKING LOT (825 LEVEE DR) GET A FREE SODA WITH YOUR ORDER</p>
       <button type="button" className="custom__button">Explore Menu</button>
     </div>
 

@@ -5,7 +5,7 @@ import trompo from '../assets/trompo.jpg'
 import tacosMenu from '../assets/tacosMenu.webp'
 import catering from '../assets/catering.jpg'
 import carnitasAbout  from '../assets/carnitasAbout.webp'
-import trompoAbout  from '../assets/trompoAbout.webp'
+import logo from '../assets/logo01.png'
 
 import tacosInsta0  from '../assets/tacosInsta0.jpg'
 import tacosInsta1  from '../assets/tacosInsta1.jpg'
@@ -20,7 +20,7 @@ let varExport = {
   tacosMenu,
   catering,
   carnitasAbout,
-  trompoAbout,
+  logo,
   tacosInsta0,
   tacosInsta1,
   tacosInsta2,
